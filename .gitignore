@@ -3,4 +3,4 @@
 .projects
 bin
 target
-.metadata/
+.metadata
