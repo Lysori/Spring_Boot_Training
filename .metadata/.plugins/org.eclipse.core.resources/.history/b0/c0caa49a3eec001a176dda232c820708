@@ -1,0 +1,5 @@
+package de.aw.blog.posts;
+
+public class PostsRepository {
+
+}
