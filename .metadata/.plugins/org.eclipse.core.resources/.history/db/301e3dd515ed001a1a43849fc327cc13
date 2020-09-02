@@ -1,0 +1,13 @@
+server:
+  port: 8281
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+  datasource:
+    url: jdbc:mhysql://${MYSQL_HOST:localhost}:3306/db_blog
+    username: root
+    password: root
+    initialization-mode: always
+    platform: mysql

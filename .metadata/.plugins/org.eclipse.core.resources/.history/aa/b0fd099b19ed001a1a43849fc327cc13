@@ -6,13 +6,12 @@
     <version>2.3.3.RELEASE</version>
     <relativePath> !---auf leer setzen, damit Konflikt mit Parent gelöst ist (nicht mehr gelb)</relativePath>
   </parent>
-  <artifactId>appmysql</artifactId>
+  <artifactId>app</artifactId>
   <groupId>de.aw.blog</groupId>
   <version>0.0.1-SNAPSHOT</version>
-  
  	<properties>
 		<java.version>14</java.version>
-		<JAR_FILE>${project.build.finalName}.jar</JAR_FILE>
+		<JAR_File>${project.build.finalName}.jar</JAR_File>
 	</properties>
 
 	<dependencies>
@@ -39,9 +38,9 @@
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
- 			<groupId>mysql</groupId>
-  			<artifactId>mysql-connector-java</artifactId>
-  			<scope>runtime</scope>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
 
@@ -60,14 +59,15 @@
       						<id>default</id>
      							<goals>
         							<goal>build</goal>
+        							<goal>push</goal>
      							</goals>
     					</execution>
   					</executions>
   						<configuration>
-   							<repository>blog-mysql</repository>
-    						<tag>${project.version}</tag>
+   							<repository>spotify/foobar</repository>
+    						<tag>0.0.1-SNAPSHOT</tag>
     							<buildArgs>
-      								<JAR_FILE>${project.build.finalName}.jar</JAR_FILE>
+      								<JAR_FILE>app-0.0.1-SNAPSHOT.jar</JAR_FILE>
   								</buildArgs>
   						</configuration>
 			</plugin>	

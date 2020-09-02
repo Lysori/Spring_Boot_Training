@@ -1,0 +1,23 @@
+version: '2'
+services:
+  mysql:
+    image: mysql:latest
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=db_blog
+      - MYSQL_USER=root
+      - MYSQL_USER_PASSWORD=root
+#    image: aw/blog-mysql-dba
+    restart: always
+    ports:
+      - 3306:3306
+  blog:
+    image: blog-mysql:0.0.1-SNAPSHOT
+    ports: 
+      - 8281:8281
+    environment:
+      - MYSQL_HOST=mysql
+    links:
+      - mysql
+    depends_on:
+      - mysql

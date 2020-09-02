@@ -2598,3 +2598,625 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact de.aw.blog.po
 2020-09-02 12:33:34,234 [Worker-102: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
 2020-09-02 12:33:34,418 [Worker-102: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
 2020-09-02 12:33:34,614 [Worker-102: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:36:48,635 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:36:48,636 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:36:48,637 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:36:48,639 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:36:48,639 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:00,649 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:37:00,649 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:37:00,651 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:00,653 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:37:00,653 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:53,710 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:37:53,710 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:53,710 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:37:53,714 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:37:53,715 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:53,992 [Worker-117: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 13:37:54,163 [Worker-117: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:37:54,418 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:37:54,418 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:54,419 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:54,420 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:37:54,420 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:37:59,984 [Worker-110: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:38:00,190 [Worker-110: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:38:00,376 [Worker-110: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:39:16,558 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 13:39:16,794 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 13:39:16,795 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 13:39:17,070 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 13:39:17,277 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:39:17,437 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 13:39:17,463 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:39:17,589 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 13:39:18,218 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 13:39:18,218 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 13:39:18,218 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 13:39:18,218 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 13:39:18,219 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 13:39:18,419 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 13:39:18,420 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 13:39:18,420 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 13:39:18,420 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 13:39:18,420 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 13:39:18,645 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 13:39:18,645 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 13:39:18,645 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 13:39:18,646 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 13:39:18,646 [Worker-111: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 13:39:19,144 [Worker-111: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 13:39:19,710 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:39:19,711 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:39:19,711 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:39:19,713 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:39:19,714 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:39:20,606 [Worker-110: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:39:20,620 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:39:20,620 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:39:20,627 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:39:20,631 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:39:20,631 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:39:20,926 [Worker-110: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:39:20,939 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:39:20,939 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:39:20,943 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:39:20,946 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:39:20,946 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:40:52,479 [Worker-111: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:40:52,669 [Worker-111: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:40:52,856 [Worker-111: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:41:05,157 [Worker-125: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:41:05,385 [Worker-125: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:41:05,630 [Worker-125: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:43:37,588 [Worker-126: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 13:43:37,730 [Worker-126: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:43:37,942 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:43:37,943 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:43:37,943 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:43:37,945 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:43:37,945 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:43:39,338 [Worker-129: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:43:39,353 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:43:39,354 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:43:39,355 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:43:39,358 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:43:39,358 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:43:42,798 [Worker-129: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:43:42,977 [Worker-129: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:43:43,262 [Worker-129: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:47:30,806 [Worker-132: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 13:47:30,943 [Worker-132: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:47:31,139 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:31,140 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:31,140 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:31,141 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:31,141 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:33,235 [Worker-133: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:47:40,517 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 13:47:40,740 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 13:47:40,741 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 13:47:40,973 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 13:47:41,113 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:47:41,246 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 13:47:41,272 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:47:41,388 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 13:47:41,970 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 13:47:41,970 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 13:47:41,970 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 13:47:41,970 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 13:47:41,970 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 13:47:42,248 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 13:47:42,248 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 13:47:42,248 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 13:47:42,248 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 13:47:42,248 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 13:47:42,477 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 13:47:42,477 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 13:47:42,477 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 13:47:42,477 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 13:47:42,477 [Worker-131: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 13:47:42,894 [Worker-131: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 13:47:43,331 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:43,332 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:43,332 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:43,335 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:43,335 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:44,294 [Worker-137: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:47:44,307 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:44,307 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:47:44,314 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:47:44,316 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:44,316 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:44,612 [Worker-137: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:47:44,626 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:44,626 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:47:44,630 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:47:44,633 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:47:44,633 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:47:52,792 [Worker-136: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:47:52,977 [Worker-136: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:47:53,158 [Worker-136: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:49:10,455 [Worker-138: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 13:49:10,593 [Worker-138: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:49:10,819 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:10,820 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:10,820 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:10,821 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:10,822 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:11,527 [Worker-133: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:49:12,039 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:12,039 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:49:12,041 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:49:12,044 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:12,045 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:14,788 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:49:14,971 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:49:15,153 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:49:23,996 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 13:49:24,191 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 13:49:24,192 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 13:49:24,419 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 13:49:24,548 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:49:24,694 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 13:49:24,718 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:49:24,833 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 13:49:25,430 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 13:49:25,430 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 13:49:25,430 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 13:49:25,430 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 13:49:25,430 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 13:49:25,675 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 13:49:25,675 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 13:49:25,676 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 13:49:25,676 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 13:49:25,676 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 13:49:25,928 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 13:49:25,928 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 13:49:25,928 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 13:49:25,928 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 13:49:25,928 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 13:49:26,430 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 13:49:26,884 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:26,884 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:26,884 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:26,886 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:26,887 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:27,479 [Worker-139: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:49:27,492 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:27,492 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:49:27,499 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:49:27,502 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:27,503 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:28,092 [Worker-141: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 13:49:28,106 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:28,107 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:49:28,108 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:49:28,110 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:49:28,111 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:49:56,381 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:49:56,559 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:49:56,734 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:50:52,075 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:50:52,076 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:50:52,078 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:50:52,079 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:50:52,079 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:50:57,281 [Worker-140: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:50:57,461 [Worker-140: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:50:57,641 [Worker-140: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:51:09,403 [Worker-138: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:51:09,627 [Worker-138: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:51:09,863 [Worker-138: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:51:26,741 [Worker-142: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:51:26,920 [Worker-142: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:51:27,102 [Worker-142: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:52:05,141 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:52:05,141 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:52:05,143 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:52:05,143 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:52:05,144 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:53:03,514 [Worker-139: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:53:03,735 [Worker-139: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:53:03,979 [Worker-139: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:53:14,954 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:53:15,137 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:53:15,316 [Worker-133: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:57:18,362 [Worker-137: Launching Executing install in C__dev_springboot_training_root_appmysql] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\springboot_training\root\appmysql
+2020-09-02 13:57:18,362 [Worker-137: Launching Executing install in C__dev_springboot_training_root_appmysql] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-09-02 13:59:08,230 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:59:08,231 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:59:08,232 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:59:08,234 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:59:08,234 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:59:17,390 [Worker-149: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:59:17,621 [Worker-149: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:59:17,876 [Worker-149: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 13:59:56,007 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:59:56,007 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 13:59:56,009 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 13:59:56,010 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 13:59:56,010 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:00:00,182 [Worker-151: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 14:00:00,184 [Worker-151: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 14:00:07,758 [Worker-150: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:00:07,938 [Worker-150: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:00:08,122 [Worker-150: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:00:20,507 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 14:00:20,709 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 14:00:20,710 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 14:00:20,940 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:00:21,071 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:00:21,207 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:00:21,231 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:00:21,343 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 14:00:21,925 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 14:00:21,925 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:00:21,925 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:00:21,925 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 14:00:21,925 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 14:00:22,238 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 14:00:22,238 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:00:22,239 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:00:22,239 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 14:00:22,239 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 14:00:22,484 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 14:00:22,485 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:00:22,485 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:00:22,485 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 14:00:22,485 [Worker-148: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 14:00:23,000 [Worker-148: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 14:00:23,481 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:00:23,482 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:00:23,482 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:00:23,484 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:00:23,484 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:00:23,521 [Worker-149: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:00:24,109 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:00:24,109 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:00:24,118 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:00:24,121 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:00:24,121 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:00:24,397 [Worker-157: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:00:24,410 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:00:24,410 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:00:24,411 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:00:24,414 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:00:24,414 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:00:41,496 [Worker-152: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:00:41,679 [Worker-152: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:00:41,858 [Worker-152: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:03:17,871 [Worker-155: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:03:18,127 [Worker-155: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:03:18,357 [Worker-155: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:04:44,210 [Worker-163: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:04:44,388 [Worker-163: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:04:44,570 [Worker-163: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:05:18,507 [Worker-163: Launching Executing install in C__dev_springboot_training_root] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\springboot_training\root
+2020-09-02 14:05:18,507 [Worker-163: Launching Executing install in C__dev_springboot_training_root] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-09-02 14:07:55,719 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:07:55,720 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:07:55,720 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:07:55,721 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:07:55,721 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:07:55,741 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:07:55,741 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:07:55,743 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:07:55,744 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:07:55,745 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:07:55,774 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:07:55,775 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:07:55,776 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:07:55,778 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:07:55,778 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:11:36,152 [Worker-160: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:11:36,388 [Worker-160: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:11:36,602 [Worker-160: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:14:11,030 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 14:14:11,266 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 14:14:11,267 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 14:14:11,510 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:14:11,645 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:14:11,777 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:14:11,805 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:14:11,925 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 14:14:12,633 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 14:14:12,633 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:14:12,633 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:14:12,634 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 14:14:12,634 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 14:14:12,876 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 14:14:12,876 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:14:12,876 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:14:12,876 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 14:14:12,876 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 14:14:13,108 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 14:14:13,108 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:14:13,109 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:14:13,109 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 14:14:13,109 [Worker-162: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 14:14:13,603 [Worker-162: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 14:14:14,105 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:14,106 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:14,106 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:14,108 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:14,109 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:14,996 [Worker-166: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:14:15,010 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:15,010 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:14:15,017 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:14:15,024 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:15,024 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:15,339 [Worker-166: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:14:15,352 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:15,353 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:14:15,354 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:14:15,356 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:15,356 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:21,639 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:21,640 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:14:21,642 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:21,644 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:14:21,644 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:14:21,758 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:14:21,953 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:14:22,143 [Worker-167: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:15:23,544 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:23,544 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:15:23,546 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:23,547 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:23,547 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:35,980 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 14:15:36,194 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 14:15:36,195 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 14:15:36,436 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:15:36,576 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:15:36,723 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:15:36,750 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:15:36,878 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 14:15:37,500 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 14:15:37,500 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:15:37,500 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:15:37,501 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 14:15:37,501 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 14:15:37,753 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 14:15:37,753 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:15:37,753 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:15:37,753 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 14:15:37,754 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 14:15:38,017 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 14:15:38,017 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:15:38,017 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:15:38,017 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 14:15:38,017 [Worker-169: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 14:15:38,496 [Worker-169: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 14:15:38,935 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:38,936 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:38,936 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:38,937 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:38,938 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:39,669 [Worker-161: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:15:39,684 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:39,684 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:15:39,692 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:15:39,696 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:39,697 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:40,285 [Worker-170: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:15:40,301 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:40,301 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:15:40,302 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:15:40,305 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:15:40,306 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:15:45,810 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:15:46,013 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:15:46,207 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:17:58,862 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:17:58,863 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:17:58,866 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:17:58,867 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:17:58,868 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:18:09,896 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 14:18:10,121 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 14:18:10,122 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 14:18:10,365 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:18:10,509 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:18:10,643 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:18:10,669 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:18:10,795 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 14:18:11,500 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 14:18:11,500 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:18:11,500 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:18:11,500 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 14:18:11,500 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 14:18:11,739 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 14:18:11,740 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:18:11,740 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:18:11,740 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 14:18:11,740 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 14:18:11,988 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 14:18:11,988 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:18:11,988 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:18:11,989 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 14:18:11,989 [Worker-163: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 14:18:12,524 [Worker-163: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 14:18:13,052 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:18:13,052 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:18:13,052 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:18:13,054 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:18:13,054 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:18:13,665 [Worker-167: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:18:13,680 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:18:13,681 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:18:13,687 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:18:13,691 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:18:13,691 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:18:14,268 [Worker-169: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:18:14,282 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:18:14,282 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:18:14,283 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:18:14,285 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:18:14,285 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:18:26,740 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:18:26,934 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:18:27,146 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:18:52,948 [Worker-166: Launching Executing install in C__dev_springboot_training_root_appmysql] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\springboot_training\root\appmysql
+2020-09-02 14:18:52,948 [Worker-166: Launching Executing install in C__dev_springboot_training_root_appmysql] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-09-02 14:20:46,978 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:20:46,979 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:20:46,981 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:20:46,982 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:20:46,983 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:20:55,357 [Worker-165: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:20:55,598 [Worker-165: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:20:55,868 [Worker-165: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:22:09,211 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:22:09,211 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:22:09,212 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:22:09,214 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:22:09,214 [Worker-167: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:24:43,789 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:24:43,790 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:24:43,791 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:24:43,792 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:24:43,792 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:24:47,939 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:24:47,940 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:24:47,941 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:24:47,942 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:24:47,942 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:24:57,522 [Worker-162: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:24:57,700 [Worker-162: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:24:57,882 [Worker-162: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:30:12,029 [Worker-153: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:30:12,251 [Worker-153: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:30:12,477 [Worker-153: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:40:59,756 [Worker-170: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:40:59,900 [Worker-170: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:41:00,120 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:41:00,120 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:41:00,120 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:41:00,121 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:41:00,121 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:41:22,386 [Worker-153: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:41:22,522 [Worker-153: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:41:22,722 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:41:22,722 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:41:22,722 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:41:22,723 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:41:22,723 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:42:15,838 [Worker-170: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:42:16,069 [Worker-168: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:42:16,203 [Worker-168: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:42:16,403 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:42:16,404 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:42:16,405 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:42:16,407 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:42:16,407 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:42:30,214 [Worker-170: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:42:36,209 [Worker-162: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:42:57,431 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 14:42:57,629 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:root:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\pom.xml.
+2020-09-02 14:42:57,630 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: de.aw.blog:api:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\pom.xml.
+2020-09-02 14:42:57,864 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:42:57,994 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:42:58,116 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:42:58,140 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:42:58,254 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:posts:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\api\posts\pom.xml.
+2020-09-02 14:42:58,776 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/main/java
+2020-09-02 14:42:58,776 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:42:58,776 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/main/resources
+2020-09-02 14:42:58,776 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /posts/src/test/java
+2020-09-02 14:42:58,776 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /posts/src/test/resources
+2020-09-02 14:42:58,908 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/main/java
+2020-09-02 14:42:58,908 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:42:58,908 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/main/resources
+2020-09-02 14:42:58,908 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /app/src/test/java
+2020-09-02 14:42:58,908 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /app/src/test/resources
+2020-09-02 14:42:59,128 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/main/java
+2020-09-02 14:42:59,128 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:42:59,129 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/main/resources
+2020-09-02 14:42:59,129 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appmysql/src/test/java
+2020-09-02 14:42:59,129 [Worker-173: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appmysql/src/test/resources
+2020-09-02 14:42:59,499 [Worker-173: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-02 14:43:00,002 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:00,003 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:00,003 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:00,005 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:00,006 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:00,906 [Worker-162: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:43:00,919 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:00,920 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-09-02 14:43:00,927 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:43:00,930 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:00,930 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:01,236 [Worker-162: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:43:01,255 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:01,256 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:43:01,257 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:43:01,260 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:01,260 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:22,583 [Worker-163: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:appmysql:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\appmysql\pom.xml.
+2020-09-02 14:43:22,714 [Worker-163: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:43:22,925 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:22,925 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:22,926 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:22,926 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:22,926 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:32,992 [Worker-170: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.aw.blog:app:0.0.1-SNAPSHOT @ C:\dev\springboot_training\root\app\pom.xml.
+2020-09-02 14:43:33,126 [Worker-170: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:43:33,321 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:33,321 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:33,322 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:43:33,323 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:43:33,323 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 14:44:16,801 [Worker-161: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:44:20,527 [Worker-163: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:44:20,713 [Worker-163: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:44:20,901 [Worker-163: Launching app - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:44:30,229 [Worker-160: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier  to /posts/target/classes
+2020-09-02 14:44:33,293 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:44:33,526 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:44:33,761 [Worker-171: Launching appmysql - BlogApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/posts: de.aw.blog:posts:0.0.1-SNAPSHOT with classifier null to /posts/target/classes
+2020-09-02 14:44:58,710 [Worker-166: Launching Executing install in C__dev_springboot_training_root_appmysql] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev\springboot_training\root\appmysql
+2020-09-02 14:44:58,711 [Worker-166: Launching Executing install in C__dev_springboot_training_root_appmysql] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-09-02 14:46:40,861 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:46:40,862 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-09-02 14:46:40,865 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 14:46:40,866 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 14:46:40,867 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:30:03,121 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:30:03,121 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:30:03,121 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:30:03,123 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:30:03,123 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:45:32,599 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:45:32,599 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:45:32,600 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:45:32,602 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:45:32,603 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:46:07,099 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:46:07,099 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:46:07,099 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:46:07,101 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:46:07,102 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:48:11,764 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:48:11,764 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:48:11,765 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:48:11,766 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:48:11,767 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:50:01,509 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:50:01,510 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:50:01,510 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:50:01,512 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:50:01,512 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:57:07,480 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:57:07,481 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:57:07,481 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:57:07,483 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:57:07,483 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:58:34,117 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:58:34,117 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:58:34,118 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 16:58:34,121 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 16:58:34,122 [Worker-168: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

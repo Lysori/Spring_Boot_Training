@@ -1,0 +1,11 @@
+version: '2.0'
+services:
+  mysql:
+    image: aw/blog-mysql-dba
+  blog:
+    image: blog-mysql:0.0.1-SNAPSHOT
+    ports: 8281:8281
+    environment:
+      - MYSQL_HOST=mysql
+    links:
+      - mysql

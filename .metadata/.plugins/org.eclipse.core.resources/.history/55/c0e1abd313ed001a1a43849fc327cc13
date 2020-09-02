@@ -7,7 +7,7 @@
   <name>Maven Multi Module Root of Blog Application</name>
   <modules>
   	<module>api</module>
-  	<module>appmysql</module>
   	<module>app</module>
+  	<module>appmysql</module>
   </modules>
 </project>

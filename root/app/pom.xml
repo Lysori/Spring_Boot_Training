@@ -9,8 +9,9 @@
   <artifactId>app</artifactId>
   <groupId>de.aw.blog</groupId>
   <version>0.0.1-SNAPSHOT</version>
- <properties>
+ 	<properties>
 		<java.version>14</java.version>
+		<JAR_File>${project.build.finalName}.jar</JAR_File>
 	</properties>
 
 	<dependencies>
@@ -63,10 +64,10 @@
     					</execution>
   					</executions>
   						<configuration>
-   							<repository>spotify/foobar</repository>
-    						<tag>0.0.1-SNAPSHOT</tag>
+   							<repository>blog-h2</repository>
+    						<tag>${project.version}</tag>
     							<buildArgs>
-      								<JAR_FILE>app-0.0.1-SNAPSHOT.jar</JAR_FILE>
+      								<JAR_FILE>${project.build.finalName}.jar</JAR_FILE>
   								</buildArgs>
   						</configuration>
 			</plugin>	
